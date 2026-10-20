@@ -1,0 +1,6 @@
+.DS_Store
+*.obj
+*.OBJ
+*.exe
+*.EXE
+*.err
